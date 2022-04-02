@@ -1,0 +1,22 @@
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\bin\Debug\LocalBinaryPattern.exe.config
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\bin\Debug\LocalBinaryPattern.exe
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\bin\Debug\LocalBinaryPattern.pdb
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.AssemblyReference.cache
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.SuggestedBindingRedirects.cache
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.Form1.resources
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.Properties.Resources.resources
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.GenerateResource.cache
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.CoreCompileInputs.cache
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.exe
+D:\LocalBinaryPatternInpaint\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.pdb
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\bin\Debug\LocalBinaryPattern.exe.config
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\bin\Debug\LocalBinaryPattern.exe
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\bin\Debug\LocalBinaryPattern.pdb
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.AssemblyReference.cache
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.SuggestedBindingRedirects.cache
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.Form1.resources
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.Properties.Resources.resources
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.GenerateResource.cache
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.csproj.CoreCompileInputs.cache
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.exe
+D:\Inpainting image use Local Binary Pattern\LocalBinaryPattern\obj\x86\Debug\LocalBinaryPattern.pdb
